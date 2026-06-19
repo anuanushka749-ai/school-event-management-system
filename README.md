@@ -118,6 +118,7 @@ The About Page provides detailed information about the School Event Management S
 * Contributed in designing of student dashboard.
 * contributed in project overall flow.
 * contributed in providing data for abstract.
+* created ppt
 
 
 
